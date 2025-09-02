@@ -42,3 +42,4 @@ Innovations:
 In conclusion, RAM design is a complex field that requires careful consideration of various factors, including speed, capacity, power consumption, and area efficiency. As technology continues to evolve, innovative solutions and emerging memory technologies will play a crucial role in shaping the future of RAM design.
 
 OUTPUT:
+![Image](https://github.com/user-attachments/assets/19e411ef-3b10-43cf-9f04-3bd3d12821e7)
